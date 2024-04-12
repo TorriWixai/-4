@@ -155,6 +155,7 @@ namespace Мат.Мод
                 Console.WriteLine("Тогда итоговая функция выглядит так:\nF_max=4*0+16*1=16");
                 Console.WriteLine("X = " + result[0]);
                 Console.WriteLine("Y = " + result[1]);
+                Console.WriteLine("Поставьте 5 пожалуйста!!!!!!");
                 Console.ReadLine();
             }
         }
