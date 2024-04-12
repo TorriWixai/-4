@@ -157,6 +157,8 @@ namespace Мат.Мод
                 Console.WriteLine("Y = " + result[1]);
                 Console.WriteLine("Поставьте 5 пожалуйста!!!!!!");
                 Console.WriteLine("Мы правда старались!!!!");
+                Console.WriteLine("Это я добавила изменения в чужой репозиторий");
+                Console.WriteLine("Мы вас любим, Екатерина Михайловна!");
                 Console.ReadLine();
             }
         }
