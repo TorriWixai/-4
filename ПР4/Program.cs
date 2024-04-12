@@ -156,6 +156,7 @@ namespace Мат.Мод
                 Console.WriteLine("X = " + result[0]);
                 Console.WriteLine("Y = " + result[1]);
                 Console.WriteLine("Поставьте 5 пожалуйста!!!!!!");
+                Console.WriteLine("Мы правда старались!!!!");
                 Console.ReadLine();
             }
         }
